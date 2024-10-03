@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class Principal {
 
-    private static final String MENU = """
+    private static final String menu = """
             ***********************************************                
             Sea Bienvenido/a Al Conversor de Moneda =]
                                 
@@ -28,7 +28,7 @@ public class Principal {
         ConsultaMoneda consulta = new ConsultaMoneda();
 
         while (true) {
-            System.out.println(MENU);
+            System.out.println(menu);
             int opcion = leerOpcionValida(sc);
 
             if (opcion == 7) {
