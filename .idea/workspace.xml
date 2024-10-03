@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96830d28-721c-494e-91e4-c11ad9b5808c" name="Changes" comment="proyecto terminado">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.alura.cursos.ConversorMoneda.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/alura/cursos/modelos/ConsultaMoneda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/alura/cursos/modelos/Moneda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/alura/cursos/principal/Principal.java" afterDir="false" />
-    </list>
+    <list default="true" id="96830d28-721c-494e-91e4-c11ad9b5808c" name="Changes" comment="primer commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +19,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2mhL4jdfcCo9k4QzBkP9dKtfMff" />
@@ -67,13 +65,38 @@
       <option name="project" value="LOCAL" />
       <updated>1727523758415</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="primer commit">
+      <option name="closed" value="true" />
+      <created>1727964038764</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727964038764</updated>
+    </task>
+    <task id="LOCAL-00003" summary="primer commit">
+      <option name="closed" value="true" />
+      <created>1727964076291</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727964076291</updated>
+    </task>
+    <task id="LOCAL-00004" summary="primer commit">
+      <option name="closed" value="true" />
+      <created>1727964164297</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727964164297</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Inicio proyecto" />
     <MESSAGE value="proyecto terminado" />
-    <option name="LAST_COMMIT_MESSAGE" value="proyecto terminado" />
+    <MESSAGE value="primer commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="primer commit" />
   </component>
 </project>
