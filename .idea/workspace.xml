@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96830d28-721c-494e-91e4-c11ad9b5808c" name="Changes" comment="primer commit" />
+    <list default="true" id="96830d28-721c-494e-91e4-c11ad9b5808c" name="Changes" comment="Merge remote-tracking branch 'origin/master'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727964164297</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1727964400600</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727964400600</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -97,6 +105,7 @@
     <MESSAGE value="Inicio proyecto" />
     <MESSAGE value="proyecto terminado" />
     <MESSAGE value="primer commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="primer commit" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
 </project>
